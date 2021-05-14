@@ -1,0 +1,2 @@
+# Custom-Keyboard-Design-Using-Only-HTML-CSS
+In this code I just only a keyboard with a neomorphic effect(A neomorphic mutation causes a dominant gain of gene function that is different from the normal function).This is a pure CSS program that means this keyboard is created using only HTML &amp; CSS for design purposes so these keyboard keys don’t work that means when you click on the specific key there is only shown a neomorphic effect. If you want to display the data on a particular key press, you need to add JavaScript for that.
